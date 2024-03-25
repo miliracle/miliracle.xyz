@@ -1,6 +1,6 @@
 ---
 title: "The difference between `<script>`, `<script async>` and `<script defer>'"
-date: 2024-03-25T22:07:11+07:00
+date: 2024-03-24T22:07:11+07:00
 draft: false
 ---
 
